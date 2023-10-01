@@ -17,7 +17,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/sloppy-bird.git
+git clone https://github.com/sachinrao8312/sloppy-bird.git
 Open the game in your preferred browser or development environment.
 
 Start playing and enjoy the Sloppy Bird experience!
